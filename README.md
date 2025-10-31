@@ -93,6 +93,5 @@ python convert.py
 MIT License
 
 ## Автор
-
-Ваше имя
+Умарычь. Моя телега https://t.me/cat2ist пишите помогу чем могу
 
